@@ -58,7 +58,7 @@ public class HelloWorldModel {
             + "Resource type is: " + resourceType + "\n"
             + "Current page is:  " + currentPagePath + "\n";
     }
-
+    String test = "chups";
     public String getMessage() {
         return message;
     }
